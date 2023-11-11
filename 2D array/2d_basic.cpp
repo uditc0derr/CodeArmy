@@ -1,21 +1,17 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
-int main(){
+int main()
+{
     int target;
-    //declare 
-    //  int arr[i][j]
+    // declare
+    //   int arr[i][j]
 
-    //int arr[3][4];
-
-  
+    // int arr[3][4];
 
     // int  arr[3][4] = {{1,11,111,1111},{2,22,222,2222},{3,33,333,3333}};
 
-
-    
-
-    // //input -> row wise 
+    // //input -> row wise
 
     // for(int i=0;i<3;i++){
     //     for(int j=0;j<4;j++){
@@ -23,16 +19,15 @@ int main(){
     //     }
     // }
 
-
-    //input column wise 
+    // input column wise
 
     //  for(int i=0;i<4;i++){
     //     for(int j=0;j<3;j++){
     //         cin>>arr[j][i];
     //     }
     // }
-   
-    //print 
+
+    // print
 
     //  for(int i=0;i<3;i++){
     //     for(int j=0;j<4;j++){
@@ -40,7 +35,4 @@ int main(){
     //     }
     //     cout<<endl;
     // }
-
-    
-  
 }
